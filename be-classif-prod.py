@@ -401,6 +401,7 @@ if uploaded_file is not None:
 
 
     #d = np.array([[specs1D[2].keys], [specs1D[2].values]]),columns=['a', 'b']
+    del img, pred, pred_acc, pred_idx, probs
    
 
 
