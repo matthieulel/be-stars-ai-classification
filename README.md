@@ -10,11 +10,11 @@ Synopsis: The objective of this algorithm is to use Deep Learning on a set of Be
 
 **Licence :** ![https://www.gnu.org/licenses/quick-guide-gplv3.html](https://img.shields.io/badge/Licence-GPLv3-orange.svg?style=flat )
 
-**Infos et contact :** [website](https://stellartrip.net)
+**Infos et contact :** [Stellartrip.net](https://stellartrip.net)
 
 **Version :** 1.0 - Update 08-01-2021
 
-**Licence GPLv3 Notice :** [Guide rapide](https://www.gnu.org/licenses/quick-guide-gplv3.html)
+**Licence GPLv3 Notice :** [Quick guide](https://www.gnu.org/licenses/quick-guide-gplv3.html)
 
 
 
@@ -43,7 +43,7 @@ This Notebook trains a Halpha line profile classification model from Be star spe
 
 
 
-<center>![alt text][besslogo]</center>
+<center>![http://basebe.obspm.fr/basebe/Images/LogoBeSS.jpg](http://basebe.obspm.fr/basebe/Images/LogoBeSS.jpg)</center>
 
 
 The retrieval of data to build a dataset is explained in another document (link).
@@ -56,7 +56,7 @@ The training of this model is done with the library [Fast.ai](https://www.fast.a
 
 
 
-<center>![alt text][pytorchlogo] ![alt text][fastailogo]</center>
+<center>![https://pytorch.org/](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png) ![https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png](https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png)</center>
 
 
 
@@ -65,9 +65,3 @@ The training of this model is done with the library [Fast.ai](https://www.fast.a
 
 Launch App : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/matthieulel/be-stars-ai-classification/main/be-classif-prod.py)
 
-
-
-
-[besslogo]: http://basebe.obspm.fr/basebe/Images/LogoBeSS.jpg "BeSS Database logo"
-[fastailogo]: https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png "FastAI logo"
-[pytorch]: https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png "PyTorch logo"
