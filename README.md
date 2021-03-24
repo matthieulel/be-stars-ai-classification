@@ -61,6 +61,12 @@ The training of this model is done with the library [Fast.ai](https://www.fast.a
 </p>
 
 
+## Training
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthieulel/be-stars-ai-classification/training/
+/DL-Be_classif_training.ipynb)
+
+
 
 ## Production 
 
