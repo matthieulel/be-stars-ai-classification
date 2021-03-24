@@ -55,8 +55,9 @@ The process of preparing the data for training, as well as the training steps, a
 The training of this model is done with the library [Fast.ai](https://www.fast.ai/)<sup>2</sup>, based on [PyTorch](https://pytorch.org/) <sup>3</sup>. 
 
 
-
+<p align="center">
 ![https://pytorch.org/](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png) ![https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png](https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png)
+</p>
 
 
 
