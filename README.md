@@ -1,7 +1,8 @@
 # Welcome on Be Stars Ha Line Classfication
 
-** Automatic classication of Be Stars Ha Line profil with Fasai.**
+**Automatic classication of Be Stars Ha Line profil with Fasai.**
 
+Please, note that this project is experimental and on progress.
 
 Synopsis: The objective of this algorithm is to use Deep Learning on a set of Be star spectra in order to derive an automatic classification of the line profiles. The Halpha line profiles described here are based on the coding implemented by V. Desnoux (see document "codage_profil.pdf").
 
