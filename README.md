@@ -43,7 +43,7 @@ This Notebook trains a Halpha line profile classification model from Be star spe
 
 
 <p align="center">
-  <img width="20%" height="20%" src="http://basebe.obspm.fr/basebe/Images/LogoBeSS.jpg"/>
+  <img width="15%" height="15%" src="http://basebe.obspm.fr/basebe/Images/LogoBeSS.jpg"/>
 </p>
 
 The retrieval of data to build a dataset is explained in another document (link).
@@ -56,7 +56,7 @@ The training of this model is done with the library [Fast.ai](https://www.fast.a
 
 
 <p align="center">
-  <img width="40%" height="40%" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />  <img width="40%" height="40%" src="https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png" />
+  <img width="40%" height="40%" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />  <img width="30%" height="30%" src="https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png" />
 </p>
 
 
