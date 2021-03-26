@@ -60,6 +60,9 @@ The training of this model is done with the library [Fast.ai](https://www.fast.a
   <img width="40%" height="40%" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />  <img width="30%" height="30%" src="https://miro.medium.com/max/1200/1*PQTzNNvBlmjW0Eca-nw14g.png" />
 </p>
 
+## Download Dataset
+[Donwload dataset](https://e.pcloud.link/publink/show?code=XZk6JXZs24TDASz2yXOgIQ62sC8sYfwYs0k)
+
 
 ## Training
 
