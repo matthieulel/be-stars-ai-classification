@@ -61,6 +61,7 @@ The training of this model is done with the library [Fast.ai](https://www.fast.a
 </p>
 
 ## Download Dataset
+You can download the dataset for test training process here (approx. 80Mo) :
 [Donwload dataset](https://e.pcloud.link/publink/show?code=XZk6JXZs24TDASz2yXOgIQ62sC8sYfwYs0k)
 
 
