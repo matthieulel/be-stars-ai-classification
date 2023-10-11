@@ -75,3 +75,4 @@ You can download the dataset for test training process here (approx. 80Mo) :
 
 Launch App : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://be-stars-ai-classification-d6yl9qvdybbamw4mfsyv56.streamlit.app/)
 
+
