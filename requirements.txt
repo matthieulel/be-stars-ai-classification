@@ -4,6 +4,6 @@ specutils==1.1.1
 astropy==4.2
 fastai==2.2.5
 numpy==1.20.1
-Pillow==8.1.2
+Pillow==10.0.1
 pyts==0.11.0
 streamlit==1.27.2
