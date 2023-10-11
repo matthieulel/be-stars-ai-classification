@@ -73,5 +73,5 @@ You can download the dataset for test training process here (approx. 80Mo) :
 ## Production 
 
 
-Launch App : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/matthieulel/be-stars-ai-classification/main/be-classif-prod.py](https://be-stars-ai-classification-d6yl9qvdybbamw4mfsyv56.streamlit.app/)https://be-stars-ai-classification-d6yl9qvdybbamw4mfsyv56.streamlit.app/)
+Launch App : [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/matthieulel/be-stars-ai-classification/main/be-classif-prod.py](https://be-stars-ai-classification-d6yl9qvdybbamw4mfsyv56.streamlit.app/)
 
