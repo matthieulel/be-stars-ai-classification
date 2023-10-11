@@ -221,7 +221,7 @@ st.write('------------------------------------------')
 
 
 #sidebar
-col_sb1, col_sb2, col_sb3 = st.sidebar.beta_columns([1,3,1])
+col_sb1, col_sb2, col_sb3 = st.sidebar.columns([1,3,1])
 with col_sb2:
     bess_logo = Image.open('img/public/bess.jpg')
     st.image(bess_logo,  use_column_width=True)
@@ -265,7 +265,7 @@ st.write('---------------------------------')
 
 st.sidebar.write('Powered by')
 
-col_sb_bt1, col_sb_bt2 = st.sidebar.beta_columns([2,1])
+col_sb_bt1, col_sb_bt2 = st.sidebar.columns([2,1])
 with col_sb_bt1:
     fastai_logo = Image.open('img/public/fastai.png')
     st.image(fastai_logo,  use_column_width=True)
@@ -276,7 +276,7 @@ with col_sb_bt2:
 
 
 
-left_column, right_column = st.beta_columns(2)
+left_column, right_column = st.columns(2)
 
 with left_column:
     rb_type = st.radio("1 - Select Personnal or BeSS (VOTable) spectrum",
@@ -316,7 +316,7 @@ if uploaded_file is not None:
 
     #show values and images
     st.write('------------------------------------------')
-    col_pred, col_gadf, col_explanation = st.beta_columns(3)
+    col_pred, col_gadf, col_explanation = st.columns(3)
     with col_pred:
         st.subheader("Prediction")
         if pred_acc > 90:
@@ -357,7 +357,7 @@ if uploaded_file is not None:
 
 
 
-    col_globalspec, col_zoomha= st.beta_columns([2,1])
+    col_globalspec, col_zoomha= st.columns([2,1])
 
     with col_globalspec:
         st.subheader("Halpha Zoom")
